@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: sentiment-based-product-recommendation
-    env: python
-    plan: free
-    runtime: python
-    pythonVersion: 3.10.13
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
