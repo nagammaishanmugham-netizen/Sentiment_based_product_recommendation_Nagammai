@@ -1,0 +1,2 @@
+# Sentiment_based_product_recommendation_Nagammai
+Sentiment based product recommendation based on tuned gradient boosting
